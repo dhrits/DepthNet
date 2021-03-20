@@ -4,7 +4,7 @@ This repository contains code for my project for CS231a. Some network layers, lo
 
 The design of the learner and the callback based system is from the **[FastAI library and course](https://github.com/fastai/course-v3)**, an open-source online course which I participated in. The learner from the course has been adapted to work with this dataset.
 
-The custom MobileNetV2 + NNConv5 architecture is defined at the end of the models.py file. 
+The custom MobileNetV2 + NNConv5 architecture is defined at the end of the `models.py` file. 
 
 Bulk of the training experiments are under Experiments.ipynb. Please note that these notebooks make use of the NYU Depth V2 dataset. The dataset can be downloaded from [here](http://horatio.cs.nyu.edu/mit/silberman/nyu_depth_v2/nyu_depth_v2_labeled.mat).
 
