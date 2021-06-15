@@ -1,4 +1,4 @@
-# Model and layer code taken from official fast-depth code https://github.com/dwofk/fast-
+# Model and layer code taken from official fast-depth code https://github.com/dwofk/fast-depth
 
 
 # MIT License
